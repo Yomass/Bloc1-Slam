@@ -1,8 +1,12 @@
-body {}
+body {  font-family : 'Comic sans ms','Roboto', Courier, monospace;
+}
+
+
 
 h1 {
 
 color : red;
+
 
 }
 
