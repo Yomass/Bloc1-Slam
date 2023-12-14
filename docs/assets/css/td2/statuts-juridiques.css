@@ -1,0 +1,8 @@
+table,th,td {
+    border : solid gray;
+    border-collapse: collapse ; 
+
+}
+th { 
+    background-color: rgba(128, 128, 128, 0.234);
+}
